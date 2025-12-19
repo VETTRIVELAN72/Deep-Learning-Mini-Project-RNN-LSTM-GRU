@@ -68,8 +68,12 @@ and how LSTM and GRU overcome those limitations.
 
 📈 Applications
 
-Time Series Forecasting
-Sentiment Analysis
-Machine Translation
-Text Generation
-Speech Recognition
+- Time Series Forecasting
+
+- Sentiment Analysis
+  
+- Machine Translation
+  
+- Text Generation
+  
+- Speech Recognition
